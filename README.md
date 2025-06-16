@@ -37,11 +37,11 @@ This project showcases my growth in data science and machine learning. It includ
 
 ## 📊 What I Learned
 
-- The importance of avoiding data leakage during preprocessing
-- How overfitting shows up when validation accuracy doesn't reflect public test scores
-- Trade-offs between model complexity and generalization
-- How feature engineering can both help and hurt performance
-- Real-world evaluation with metrics like confusion matrix and F1-score
+- The importance of avoiding data leakage during preprocessing.
+- How overfitting shows up when validation accuracy doesn't reflect public test scores.
+- Trade-offs between model complexity and generalization.
+- How feature engineering can both help and hurt performance.
+- Real-world evaluation with metrics like confusion matrix and F1-score.
 
 ---
 
