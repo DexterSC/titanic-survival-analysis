@@ -21,7 +21,7 @@ This project showcases my growth in data science and machine learning. It includ
 |--------------------------------------|----------------------------------------------|
 | `baseline_model.ipynb`               | Simple model with minimal preprocessing      |
 | `feature_engineered_model.ipynb`     | Enhanced model with feature engineering      |
-| `titanic_baseline_submission.csv`    | Kaggle submission from baseline model        |
+| `submission.csv`                     | Kaggle submission from baseline model        |
 | `titanic_feature_engineered_submission.csv` | Kaggle submission from advanced model         |
 
 ---
